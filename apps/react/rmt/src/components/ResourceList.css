@@ -1,0 +1,10 @@
+.HeaderLogo{
+    width: 64px;
+    height:64px;
+}
+
+.Title{
+    font: 2em sans-serif;
+    float: left;
+    padding-left: 500px;
+}
